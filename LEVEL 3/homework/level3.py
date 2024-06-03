@@ -1,5 +1,4 @@
 
-surname="kereselidze"
 
 name="dani"
 surname="kereselidze"
